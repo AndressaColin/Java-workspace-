@@ -1,3 +1,4 @@
 # Java-workspace-
 
-Workspace projetos em JAVA
+Repositório de estudos/projetos Java
+
