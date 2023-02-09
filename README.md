@@ -1,5 +1,5 @@
 # Java Workspace
 
-Repositório de estudos/projetos Java
+Repositório de estudos e projetos Java
 
 BootCamp Orange Tech Inter 🍊
